@@ -14,6 +14,7 @@ public class Drone : MonoBehaviour
     private Asteroid targetAsteroid;
     private Vector3 targetPosition;
     private int currentCargo = 0;
+    private ResourceType carriedResourceType;
 
     private enum State { Idle, FlyingToAsteroid, Mining, Returning }
     private State currentState = State.Idle;
@@ -107,6 +108,7 @@ public class Drone : MonoBehaviour
 
             if (currentCargo >= cargoCapacity || targetAsteroid.IsDepleted)
             {
+                carriedResourceType = targetAsteroid.resourceType;
                 laser.enabled = false;
                 targetPosition = station.transform.position;
                 currentState = State.Returning;
@@ -126,8 +128,12 @@ public class Drone : MonoBehaviour
 
             laser.enabled = false;
 
-            station.DepositResources(currentCargo, targetAsteroid.resourceType);
+            if (carriedResourceType != null && currentCargo > 0)
+                station.DepositResources(currentCargo, carriedResourceType);
+
             currentCargo = 0;
+            targetAsteroid = null;
+            carriedResourceType = null;
 
             currentState = State.Idle;
         }
