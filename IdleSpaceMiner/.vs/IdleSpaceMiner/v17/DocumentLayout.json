@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|c:\\users\\kyled\\onedrive\\documents\\unity projects\\idlespaceminer\\assets\\script\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\assets\\script\\spacestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spacestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\assets\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\assets\\script\\asteroidspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\asteroidspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\assets\\script\\dronemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687E831-7A9C-E56F-DE9F-A194D9FDB767}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dronemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Asteroid.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\Asteroid.cs",
+              "RelativeToolTip": "Assets\\Script\\Asteroid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:34:29.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsteroidSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\AsteroidSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AsteroidSpawner.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\AsteroidSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\AsteroidSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:04:19.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\Drone.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Drone.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\Drone.cs",
+              "RelativeToolTip": "Assets\\Script\\Drone.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwIUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:43:41.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameUIManager.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameUIManager.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwHMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:38:41.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DroneManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\DroneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DroneManager.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\DroneManager.cs",
+              "RelativeToolTip": "Assets\\Script\\DroneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:36:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceStation.cs",
+              "DocumentMoniker": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\SpaceStation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpaceStation.cs",
+              "ToolTip": "C:\\Users\\kyled\\OneDrive\\Documents\\Unity Projects\\IdleSpaceMiner\\Assets\\Script\\SpaceStation.cs",
+              "RelativeToolTip": "Assets\\Script\\SpaceStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:35:18.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
